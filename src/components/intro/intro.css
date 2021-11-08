@@ -66,11 +66,11 @@
   align-items: center;
 }
 
-.i-scroll{
-    height: 30px;
-    width: 30px;
-    position: absolute;
-    bottom: 20px;
+.i-scroll {
+  height: 30px;
+  width: 30px;
+  position: absolute;
+  bottom: 20px;
 }
 .i-img {
   height: 100%;
